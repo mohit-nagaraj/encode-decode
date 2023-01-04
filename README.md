@@ -20,4 +20,4 @@ basic encryption/decrption
 > This is still under development and not indicative of the final product
 > This may not be the optimal approach and I am open to **any** suggestions
 >
->  *Nothing is easy and nothing is impossible*.
+>  *Nothing is easy nor impossible*.
