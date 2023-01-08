@@ -1,4 +1,6 @@
 # encode-decode
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<br>
 basic encryption/decrption
 
 ### Features:
@@ -14,6 +16,11 @@ basic encryption/decrption
    - give path as input
 
 4. Option to save output easily 
+
+### Oncoming features:
+- [ ] Improve encoding to AES
+- [ ] Create a GUI for i/o
+- [ ] Implement a web version
 
 > #### NOTE:
 >
